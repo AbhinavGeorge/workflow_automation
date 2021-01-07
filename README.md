@@ -9,21 +9,21 @@ Then it will push the files to the repo
 
 ## How to install
 dependencies:
-	python3
-	git 
-	pip
+	*python3
+	*git 
+	*pip
 
 preinstall:
-	run "pip install selenium"
+	*run "pip install selenium"
 
 install:
-	clone this repo with "git clone https://github.com/AbhinavGeorge/workflow_automation"
-	run this command "curl https://gitlab.com/abhinavmgeorge/info.py/-/raw/master/info.py"
-	then replace the #<username> and #<password> your real username and password
+	*clone this repo with "git clone https://github.com/AbhinavGeorge/workflow_automation"
+	*run this command "curl https://gitlab.com/abhinavmgeorge/info.py/-/raw/master/info.py"
+	*then replace the #<username> and #<password> your real username and password
 	
 running:
-	run "python/python3 /path/to/main.py"
+	*run "python/python3 /path/to/main.py"
 
 extras:
-	create a bash script or add an alias in your .bashrc to execute the file with a command
+	*create a bash script or add an alias in your .bashrc to execute the file with a command
 
