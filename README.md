@@ -8,20 +8,20 @@ Then it will push the files to the repo
 
 
 ## How to install
-### dependencies
+### dependencies:
 * python3
 * git 
 * pip
 
-### preinstall
+### preinstall:
 * run ``` pip install selenium```
 
-### install
+### install:
 * clone this repo with ``` git clone https://github.com/AbhinavGeorge/workflow_automation```
 * run this command ``` curl https://gitlab.com/abhinavmgeorge/info.py/-/raw/master/info.py```
 * then replace the #<username> and #<password> your real username and password
 	
-### running
+### running:
 * run ``` python3 /path/to/main.py```
 
 ### extras:
